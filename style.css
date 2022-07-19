@@ -1,0 +1,27 @@
+.hidden {
+  display: none;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.container input {
+  padding: 15px;
+  width: 200px;
+  border-radius: 10px;
+  border: none;
+  background-color: blanchedalmond;
+}
+
+.container button {
+  padding: 12px;
+  background-color: #dbdbdb;
+  border: none;
+  border-radius: 10px;
+}
+
+.list {
+  text-align: center;
+}
